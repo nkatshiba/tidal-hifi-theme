@@ -5,7 +5,7 @@ A custom theme for Tidal-HiFi on Linux that enhances the visual experience while
 <p align="center">
   <img src="assets/screenshot.png" alt="Tidal-HiFi Theme Screenshot"/>
   <br>
-  <em>Custom Tidal-HiFi theme for Linux</em>
+  <em>Screenshot showcasing the theme</em>
 </p>
 
 ## Overview
